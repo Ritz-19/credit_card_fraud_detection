@@ -1,5 +1,8 @@
 # credit_card_fraud_detection
- 
+Course: Python for Data Science (SDSC2001)
+
+Course Project: Building mutliple ML Models for Credit Card related Fraud Detection
+
 Credit card companies aim to recognise fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
 The dataset contains transactions made by credit cards in September 2013 by european cardholders.
